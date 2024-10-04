@@ -1,3 +1,7 @@
+# CLI
+➜  php -S localhost:8080 api.php
+➜  ./test.sh
+
 # DataLake API Documentation
 
 This documentation provides an overview of the DataLake API, a RESTful service for managing and querying objects with vector and geospatial data. The API supports user authentication, object CRUD operations, ownership management, event subscriptions, and advanced search capabilities.
